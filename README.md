@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm Allotei
+# 👋🏾 Hi, I'm Allotei
 I'm a full-stack developer, trying to make the world a better place one project at a time. I am currently pursuing a Master's in Digital Innovation and Data Science at Dalhousie University in Halifax. Every coding project is crafted from the ground up—from initial planning and design to delivering solutions that tackle real-world challenges. With experience across diverse fields like healthcare, education, and intelligence analysis, I blend creativity with technical expertise to make a meaningful impact. At the moment, I am working on an app for on-demand recruitment in the healthcare space.
 
 
